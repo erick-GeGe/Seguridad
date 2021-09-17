@@ -1,3 +1,5 @@
+#Erick Gutierrez Enriquez 
+
 import string
 
 #Operacion #1
